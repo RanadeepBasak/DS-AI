@@ -1,1 +1,3 @@
-echo '{"email": "22f3000940@ds.study.iitm.ac.in"}' > email.json
+{
+  "email": "22f3000940@ds.study.iitm.ac.in"
+}
